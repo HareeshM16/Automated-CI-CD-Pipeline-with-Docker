@@ -4,8 +4,6 @@ Automated-CI-CD-Pipeline-with-Docker
 This project demonstrates an Automated Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions and Docker to build, test, and deploy applications automatically.
 It ensures faster release cycles, zero manual deployment errors, and consistent environments across development and production.
 
-📄 Detailed Report: View 4-Page Project Report (PDF)
-
 🛠 Tech Stack
 GitHub Actions – Pipeline automation
 Docker – Containerization
