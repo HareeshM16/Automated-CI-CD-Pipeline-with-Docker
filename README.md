@@ -13,17 +13,29 @@ Bash – Deployment automation
 Linux/Ubuntu – Deployment environment
 📂 Repository Structure
 automated-ci-cd-docker/ │ 
+
 ├── app/ # Sample application source code │
+
 ├── main.py # Sample Python app (or index.js for Node) │ 
+
 ├── requirements.txt # Python dependencies │ 
+
 └── tests/# Unit tests │ ├── Dockerfile # Docker build instructions 
+
 ├── docker-compose.yml # Optional multi-container setup │
+
 ├── .github/workflows/ # GitHub Actions CI/CD configuration │
+
 └── ci-cd.yml │ ├── deploy.sh # Deployment automation script │ 
+
 ├── report/ # Documentation folder │ 
+
 ├── Automated-CI-CD-Pipeline-with-Docker.pdf # 4-page report │
+
 └── diagrams/ # Any architecture/pipeline diagrams │ 
+
 ├── README.md # Main project README (from earlier) 
+
 └── LICENSE # Optional license file
 
 ⚙️ How It Works
