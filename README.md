@@ -47,8 +47,4 @@ Push → Pushes image to Docker Hub
 Deploy → Server pulls and runs the latest image
 docker build -t myapp:latest . docker run -p 5000:5000 myapp:latest
 
-🚀 Setup & Usage
-1️⃣ Clone repo
-
-git clone https://github.com/your-username/automated-ci-cd-docker.git
 cd automated-ci-cd-docker
